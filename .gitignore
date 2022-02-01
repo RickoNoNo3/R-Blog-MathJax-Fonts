@@ -1,2 +1,6 @@
 *.min.css
 *.min.js
+
+# MacOS Finder
+.DS_Store
+*.DS_Store
